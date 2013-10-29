@@ -1,0 +1,20 @@
+create table if not exists temp_batting (col_value STRING);
+LOAD DATA LOCAL INPATH '/tmp/Batting.csv' OVERWRITE INTO TABLE temp_batting;
+
+create table if not exists batting (player_id STRING, year INT, runs INT);
+
+INSERT OVERWRITE TABLE batting 
+SELECT
+   regexp_extract(col_value, '^(?:([^,]*)\,?){1}', 1) player_id,
+   regexp_extract(col_value, '^(?:([^,]*)\,?){2}', 1) year,
+   regexp_extract(col_value, '^(?:([^,]*)\,?){9}', 1) run
+FROM temp_batting;
+
+SELECT year, max(runs) FROM batting GROUP BY year;
+
+SELECT a.year , a.player_id, a.runs FROM batting a JOIN (SELECT year, max(runs) runs FROM batting GROUP BY year) b ON (a.year = b.year AND a.runs = b.runs);
+
+
+   
+
+

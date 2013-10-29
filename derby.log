@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2013-04-24 01:07:48.561 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.1.0 - (938214): instance a816c00e-013e-3995-0801-00000e8d5fe8 
+on database directory /home/kaniska/workspaces/hadoop/hadoop-samples/metastore_db   with class loader sun.misc.Launcher$AppClassLoader@63c78e57
+
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,5 @@
+#surefire
+#Tue Apr 23 19:24:57 PDT 2013
+user.dir=/home/kaniska/workspaces/hadoop/hadoop-samples
+localRepository=/home/kaniska/.m2/repository
+basedir=/home/kaniska/workspaces/hadoop/hadoop-samples

@@ -1,0 +1,4 @@
+<configuration>
+hd.fs=hdfs://localhost:8020
+mapred.job.tracker=localhost:8021
+</configuration>
