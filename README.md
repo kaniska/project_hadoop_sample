@@ -1,3 +1,10 @@
+Hadoop setup on Ubuntu :
+
+The steps are mentioned in my blog post :
+http://phisymmetry.wordpress.com/2013/03/24/programming-with-cdh4-hadoop-in-springsource-on-ubuntu/#more-5891
+
+Remember to point to mysql as hive metastore.
+
 # Building and running
 
     $ hadoop dfs -copyFromLocal /tmp/gutenberg/download /user/gutenberg/input
@@ -12,17 +19,12 @@
 
 Loading the Application Context When the Application Starts
 
-We can execute the created Hadoop job by loading the application context when our application is started. We can do this by creating a new ClasspathXmlApplicationContext object and providing the name of our application context configuration file as a constructor parameter. The source code of our Main class is given in following:
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-
-public class Main {
-    public static void main(String[] arguments) {
-        ApplicationContext ctx = new ClassPathXmlApplicationContext("applicationContext.xml");
-    }
-}
+We can execute the created Hadoop job by loading the application context when our application is started. 
+We can do this by creating a new ClasspathXmlApplicationContext object and 
 
 ============================================
+
+
 
 Remember to start hive thrift server before running the application :
 hive --service hiveserver
