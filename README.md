@@ -6,7 +6,8 @@
     $ mvn clean package appassembler:assemble
     $ export ENV=qa
     $ sh ./target/appassembler/bin/wordcount
-/home/kaniska/workspaces/hadoop/baseball_analysis/lahman591-csv
+    
+
 =========================================
 
 Loading the Application Context When the Application Starts
