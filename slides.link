@@ -1,0 +1,153 @@
+http://www.slideshare.net/cloudera/hbasecon-2012-youve-got-hbase-how-aol-mail-handles-big-data
+
+http://www.slideshare.net/cloudera/3-learning-h-base-internals-lars-hofhansl-salesforce-final
+
+http://www.slideshare.net/cloudera/3-storing-and-manipulating-graphs-in-h-base-updated-last-minute
+
+http://www.slideshare.net/brizzzdotcom/facebook-messages-hbase
+
+http://www.slideshare.net/cloudera/8-hbasecon-demircas
+
+http://www.slideshare.net/cloudera/10-scaling-gis-lightning-hbasecon2012-final
+
+http://www.slideshare.net/ydn/hive-with-h-base
+
+http://www.slideshare.net/hortonworks/integration-of-hive-and-hbase-12805463
+
+http://www.slideshare.net/ydn/jan-2012-hug-hcatalog
+
+http://www.slideshare.net/hortonworks/architecting-the-future-of-big-data-and-search
+
+http://www.slideshare.net/avniS/3-phases-in-transactions-3-units
+
+http://www.slideshare.net/avniS/locking-unit-1-topic-3
+
+>> best hadoop trends ...
+
+http://www.slideshare.net/hortonworks/hadoop-trends
+
+http://www.slideshare.net/woorung/map-reduce-debates-and-schema-free
+
+http://www.slideshare.net/arjenpdevries/big-data-hadoop-rdbms 
+
+HadoopDB - http://www.slideshare.net/miguelinlas3/hadoopdb
+-- http://www.slideshare.net/thkoch/hadoopdb-a-major-step-towards-a-dead-end
+
+>> http://www.slideshare.net/bart7449/parallel-data-processing-with-mapreduce-a-survey
+
+>> 
+
+http://www.slideshare.net/DanLynn1/storing-and-manipulating-graphs-in-hbase
+
+http://www.slideshare.net/hortonworks/large-scale-math-with-hadoop-mapreduce
+
+Storm :
+http://www.slideshare.net/DanLynn1/storm-the-realtime-layer-gluecon-2012
+-- http://www.slideshare.net/nathanmarz/storm-distributed-and-faulttolerant-realtime-computation
+-- http://www.slideshare.net/hortonworks/hortonworks-for-financial-analysts-presentation
+-- http://www.slideshare.net/colinsurprenant/twitter-stream-processing
+
+
+>>>>>  Cascading
+Hadoop - Ubuntu :
+
+http://www.slideshare.net/trck/running-hadoop-on-ubuntu-linux
+
+http://www.slideshare.net/nathanmarz/cascading-3331766
+
+http://www.slideshare.net/cwensel/building-scale-free-applications-with-hadoop-and-cascading-1616859
+
+>>>> Twitter
+http://www.slideshare.net/colinsurprenant/twitter-big-data
+
+Setup Hadoop :
+http://www.slideshare.net/erikeldridge/hands-on-hadoop-intro-for-web-developers-2094304
+http://www.slideshare.net/jeffreybreen/big-data-stepbystep-infrastruture-33
+
+http://www.slideshare.net/hadoop/practical-problem-solving-with-apache-hadoop-pig
+
+Solve hadoop problems :
+http://www.slideshare.net/synctree/solving-real-world-problems-with-hadoop
+
+
+
+How facebook moved petabytes of data :
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+http://gigaom.com/cloud/facebook-hadoop-cluster/?utm_source=social&utm_medium=twitter&utm_campaign=gigaom
+
+http://www.facebook.com/notes/paul-yang/moving-an-elephant-large-scale-hadoop-data-migration-at-facebook/10150246275318920
+
+>>>> Scoop:
+
+http://www.slideshare.net/cloudera/apache-sqoop-a-data-transfer-tool-for-hadoop
+
+>>> R-Hive
+http://www.slideshare.net/SeonghakHong/r-hive-tutorial-supplement-1-installing-hadoop-11150079
+
+>>> white-papers
+http://www.mapr.com/resources/white-papers
+
+Data Analytics ::
+http://www.slideshare.net/jseidman/data-analysis-with-hadoop-and-hive-chicagodb-2212011
+
+http://www.slideshare.net/adorepump/hadoop-and-hive-development-at-facebook
+
+http://www.slideshare.net/royans/facebooks-petabyte-scale-data-warehouse-using-hive-and-hadoop
+
+http://www.slideshare.net/nzhang/hive-training-motivations-and-real-world-use-cases
+
+http://strataconf.com/strata2012/public/schedule/detail/22448
+
+http://strataconf.com/strata2012/public/schedule/detail/22381
+
+
+Other Things :
+http://www.slideshare.net/cloudera/apache-hadoop-talk-at-qcon
+http://www.slideshare.net/BigDataCloud/big-data-in-heterogeneous-world
+
+Map Reduce :
+
+http://www.slideshare.net/hadoop/practical-problem-solving-with-apache-hadoop-pig
+
+Distributed Computing:
+
+http://www.slideshare.net/tazija/anatomy-of-distributed-computing-with-hadoop
+
+http://www.slideshare.net/adorepump/distributed-data-processing-in-a-cloud
+
+Predictive Modelling :
+
+http://strataconf.com/strata2012/public/schedule/detail/22657
+
+http://strataconf.com/strata2012/public/schedule/detail/22658
+
+Web Mining :
+
+http://strataconf.com/strata2012/public/schedule/detail/22385
+http://strataconf.com/strata2012/public/schedule/detail/22499
+
+
+M/R Testing :
+
+http://strataconf.com/strata2012/public/schedule/detail/22651
+
+http://strataconf.com/strata2012/public/schedule/detail/22448
+
+http://strataconf.com/strata2012/public/schedule/detail/22360
+
+Mongo+Hadoop -> analytics
+
+http://www.slideshare.net/iammutex/the-elephant-in-the-room-mongo-db-hadoop
+
+Data Viz :
+
+http://strataconf.com/strata2012/public/schedule/detail/22505
+
+>>>> http://kickstarthadoop.blogspot.com/
+http://whitepapers.theregister.co.uk/paper/view/2480/accelops-datacenteritservicemgmt0110-white-paper.pdf
+
+https://www.cloudera.com/resources/hbasecon/
+
+https://ccp.cloudera.com/display/SUPPORT/Downloads
+
